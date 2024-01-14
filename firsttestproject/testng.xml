@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CalculatorApp Testcases">
+	<test name="Testcases">
+		<classes>
+			<class name="com.sgtesting.tests.testcases.CalculatorTest"></class>
+		</classes>
+	</test>
+</suite>
